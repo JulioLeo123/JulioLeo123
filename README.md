@@ -4,18 +4,17 @@
 📍 Brasil | 🌱 Sempre aprendendo novas tecnologias
 
 > *"A genialidade é 1% inspiração e 99% transpiração"* – Thomas Edison  
-*(pouco usada em perfis, mas muito poderosa)*
 
 ---
 
 ## 🚀 Sobre mim
 
 Sou um desenvolvedor em início de carreira, mas com vontade de sênior!  
-Atualmente atuo como estagiário em uma farmácia de manipulação, realizando **integrações entre sistemas usando AWS**.  
-Meu dia a dia inclui desde **webscraping para rastreamento de pedidos**, até **integração de dados em plataformas como ChatGuru e ERP Tiny**.
+Atualmente atuo como estagiário em uma farmácia de manipulação, realizando **integrações entre sistemas**.  
+Meu dia a dia inclui desde **API's para rastreamento de pedidos**, até **integração de dados em plataformas de chats de comunicação para ERP's**.
 
 Também participo de projetos acadêmicos e comunitários, como:  
-- **Sistema de Dados Abertos** da minha cidade (em desenvolvimento, futuro uso de IA)  
+- **Sistema de Dados Abertos** da minha cidade  
 - **Feira das Profissões** na universidade  
 - Projeto social para montar e configurar uma sala de informática em uma escola pública  
 
@@ -52,7 +51,7 @@ Também participo de projetos acadêmicos e comunitários, como:
 
 ---
 
-## 📌 Projetos em Destaque
+## 📌 Alguns projetos em Destaque
 - **🛰️ Integração ChatGuru + RDStation (AWS)** – Atualização e enriquecimento automático de cadastros  
 - **📦 Webscraping + ERP Tiny** – Rastreamento automático de pedidos em transportadoras  
 - **🌐 Dados Abertos São Bento do Sul** – Plataforma open source de transparência pública (em desenvolvimento)  
