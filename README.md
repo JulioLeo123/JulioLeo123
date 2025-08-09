@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou **Júlio Leonardo dos Santos**
+# **Júlio Leonardo dos Santos / Dev FullStack**
 
 💻 Estagiário **Fullstack Developer** | 🎓 4º semestre de **Engenharia de Software**  
 📍 Brasil | 🌱 Sempre aprendendo novas tecnologias
