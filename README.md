@@ -59,9 +59,9 @@ Também participo de projetos acadêmicos e comunitários, como:
 ---
 
 ## 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JulioLeonardoDev&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulioLeonardoDev&layout=compact&theme=radical)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=JulioLeonardoDev&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JulioLeo123&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulioLeo123&layout=compact&theme=radical)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=JulioLeo123&theme=radical)
 
 ---
 
