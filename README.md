@@ -11,7 +11,7 @@
 
 Sou um desenvolvedor em início de carreira, mas com vontade de sênior!  
 Atualmente atuo como estagiário em uma farmácia de manipulação, realizando **integrações entre sistemas**.  
-Meu dia a dia inclui desde **API's para rastreamento de pedidos**, até **integração de dados em plataformas de chats de comunicação para ERP's**.
+Meu dia a dia inclui desde **integrações de dados em plataformas de chats de comunicação para ERP's**, até **desenvolvimento de sistemas para uso interno da farmácia**.
 
 Também participo de projetos acadêmicos e comunitários, como:  
 - **Sistema de Dados Abertos** da minha cidade  
