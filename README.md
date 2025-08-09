@@ -77,7 +77,7 @@ Também participo de projetos acadêmicos e comunitários, como:
 
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-leonardo-76b7172bb/)  
-📧 **Email:** *(adicione aqui seu email profissional)*  
+📧 **Email:** *juliolssantos12@gmail.com*  
 
 ---
 
