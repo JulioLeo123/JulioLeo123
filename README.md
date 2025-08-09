@@ -1,6 +1,3 @@
-<!-- Banner ou imagem de capa -->
-![Banner](https://github.com/seuusuario/seuusuario/blob/main/banner.png)
-
 # 👋 Olá, eu sou **Júlio Leonardo dos Santos**
 
 💻 Estagiário **Fullstack Developer** | 🎓 4º semestre de **Engenharia de Software**  
