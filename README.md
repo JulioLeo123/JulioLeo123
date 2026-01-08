@@ -3,7 +3,7 @@
 💻 **Fullstack Developer** | 🎓 5º semestre de **Engenharia de Software** (Univille)  
 ☁️ Especialista em **Automação Serverless na AWS** 📍 São Bento do Sul, SC - Brasil  
 
-> *"Transformando lógica complexa em soluções escaláveis."* 🚀
+> *"A genialidade é 1% inspiração e 99% transpiração"* – Thomas Edison  
 
 ---
 
