@@ -1,8 +1,8 @@
 # **Julio Leonardo dos Santos | Software Engineer & Cloud Enthusiast**
 
-💻 **Fullstack Developer** | [cite_start]🎓 5th semester of **Software Engineering** (Univille) [cite: 47, 48]
+💻 **Fullstack Developer** | 🎓 5th semester of **Software Engineering** (Univille) 
 
-[cite_start]☁️ Specialist in **Serverless Automation on AWS** 📍 São Bento do Sul, SC - Brazil [cite: 3]
+☁️ Specialist in **Serverless Automation on AWS** 📍 São Bento do Sul, SC - Brazil 
 
 > *"Genius is 1% inspiration and 99% perspiration"* – Thomas Edison
 
@@ -43,7 +43,7 @@ Public transparency platform for the local community.
 
 ### 🎾 **Court Reservation API**
 Backend for managing sports scheduling.
-- [cite_start]**Stack:** PHP[cite: 62], RESTful API, Android Studio.
+- **Stack:** PHP, RESTful API, Android Studio.
 - **Highlight:** Complete documentation via **Swagger** and focus on business rules for high concurrency of time slots.
 
 ---
@@ -55,8 +55,8 @@ Backend for managing sports scheduling.
 ---
 
 ## 📫 Contact
-[cite_start][![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-leonardo) [cite: 44]
-[cite_start]📧 **Email:** *juliolssantos12@gmail.com* [cite: 44]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-leonardo)
+📧 **Email:** *juliolssantos12@gmail.com*
 
 ---
 
